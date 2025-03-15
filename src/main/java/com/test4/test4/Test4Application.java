@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test4Application {
+	int x=100;
+	int y=200;
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
